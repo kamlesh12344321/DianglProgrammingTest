@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DianglProgrammingTest</string>
+    <string name="imageviewNavbar">ImageViewNavBar</string>
+    <string name="poster_item">poster_item</string>
+</resources>
